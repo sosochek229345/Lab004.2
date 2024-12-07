@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WellDone\\source\\repos\\Project5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962365E2-8064-422A-9424-2B02B54D659D}|Project5\\Project5.vcxproj|C:\\Users\\WellDone\\source\\repos\\Project5\\Project5\\lab4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{962365E2-8064-422A-9424-2B02B54D659D}|Project5\\Project5.vcxproj|solutionrelative:Project5\\lab4.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.2.cpp",
+              "DocumentMoniker": "C:\\Users\\WellDone\\source\\repos\\Project5\\Project5\\lab4.2.cpp",
+              "RelativeDocumentMoniker": "Project5\\lab4.2.cpp",
+              "ToolTip": "C:\\Users\\WellDone\\source\\repos\\Project5\\Project5\\lab4.2.cpp*",
+              "RelativeToolTip": "Project5\\lab4.2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T02:43:11.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
